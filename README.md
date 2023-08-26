@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Patrick! 
 
-<p align="center">I'm a student of the internet systems technology course at IFSP and I'm studying to become a front end developer</p>
+<p align="center">I'm a student of the internet systems technology course at IFSP and I'm studying to become a backend developer</p>
 
 ## Connect with me:
 <p align="center">
@@ -11,12 +11,13 @@
 ## I am learning
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="Vuejs" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-  
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </p>
+
 <div>
 <a href="https://github.com/PatrickGimenes">
 <img alt="Patrick's GitHub stats" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGimenes&layout=compact&langs_count=7&theme=tokyonight"/>
